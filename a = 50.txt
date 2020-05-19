@@ -1,0 +1,6 @@
+a = 50
+b = 3,6
+
+multiplicação = a * b
+
+print(multiplicação)
